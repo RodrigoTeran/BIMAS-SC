@@ -1,2 +1,2 @@
 # This is my first paid project
-### It is this website [link: BIMAS SC](https://bimas.com.mx/)
+### This is the link of the website [link: BIMAS SC](https://bimas.com.mx/)
